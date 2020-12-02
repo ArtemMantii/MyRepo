@@ -1,0 +1,26 @@
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.exe
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.deps.json
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.json
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.dev.json
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.dll
+C:\C#\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csprojAssemblyReference.cache
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfoInputs.cache
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfo.cs
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csproj.CoreCompileInputs.cache
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.dll
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\C#\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.genruntimeconfig.cache
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.exe
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.deps.json
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.json
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.dev.json
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.dll
+C:\Новая папка\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csprojAssemblyReference.cache
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfoInputs.cache
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfo.cs
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csproj.CoreCompileInputs.cache
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.dll
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.genruntimeconfig.cache
