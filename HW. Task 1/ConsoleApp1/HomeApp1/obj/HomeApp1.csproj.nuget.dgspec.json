@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Новая папка\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj": {}
+    "C:\\MyRepo\\HW. Task 1\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj": {}
   },
   "projects": {
-    "C:\\Новая папка\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj": {
+    "C:\\MyRepo\\HW. Task 1\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Новая папка\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj",
+        "projectUniqueName": "C:\\MyRepo\\HW. Task 1\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj",
         "projectName": "HomeApp1",
-        "projectPath": "C:\\Новая папка\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj",
+        "projectPath": "C:\\MyRepo\\HW. Task 1\\ConsoleApp1\\HomeApp1\\HomeApp1.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Новая папка\\ConsoleApp1\\HomeApp1\\obj\\",
+        "outputPath": "C:\\MyRepo\\HW. Task 1\\ConsoleApp1\\HomeApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config",

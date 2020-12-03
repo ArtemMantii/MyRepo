@@ -6,7 +6,7 @@ namespace HomeApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, what's your name?");
+            Console.WriteLine("What's your name?");
 
             string name = Console.ReadLine();
 

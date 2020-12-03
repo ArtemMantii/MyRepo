@@ -24,3 +24,16 @@ C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.c
 C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.dll
 C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.pdb
 C:\Новая папка\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.genruntimeconfig.cache
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.exe
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.deps.json
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.json
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.runtimeconfig.dev.json
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.dll
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\bin\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csprojAssemblyReference.cache
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfoInputs.cache
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.AssemblyInfo.cs
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.csproj.CoreCompileInputs.cache
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.dll
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.pdb
+C:\MyRepo\HW. Task 1\ConsoleApp1\HomeApp1\obj\Debug\netcoreapp3.1\HomeApp1.genruntimeconfig.cache
