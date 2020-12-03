@@ -12,11 +12,11 @@ namespace ConsoleApp1
             string arg2 = args[1];
             int intArg2 = int.Parse(arg2);
 
-            Console.WriteLine("Enter the first value");
+            Console.WriteLine("Enter the 1st value");
             string value1 = Console.ReadLine();
             int a = int.Parse(value1);
 
-            Console.WriteLine("Enter the second value");
+            Console.WriteLine("Enter the 2nd value");
             string value2 = Console.ReadLine();
             int b = int.Parse(value2);
 

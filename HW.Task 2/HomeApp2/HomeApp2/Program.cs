@@ -41,22 +41,6 @@ namespace HomeApp2
 
             Console.WriteLine(buyAlcohol);
             
-
-
-
-
-
-
-
-           // Console.WriteLine("Do you have passport? If you have type 1, if you didn't have type 0");
-           // string value2 = Console.ReadLine();
-           // int intValue2 = int.Parse(value2);
-           //bool passport = intValue2 > 0;
-           // passport = true;
-           //bool buyAlcohol = adulthood && passport;
-
-            // Console.WriteLine("Buy Alcohol");
-
         }
     }
 }
