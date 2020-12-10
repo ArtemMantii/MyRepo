@@ -23,7 +23,7 @@ namespace HomeApp2
 
     static int ReadIntValueFromConsole(string message)
     {
-      while(true)
+      while (true)
       {
         Console.WriteLine(message);
         string inputValue = Console.ReadLine();
@@ -41,7 +41,7 @@ namespace HomeApp2
       Console.WriteLine(message + " (" + trueValue + "/" + falseValue + ")");
     }
 
-    static decimal ReadDecimalFromConsole (string message)
+    static decimal ReadDecimalFromConsole(string message)
     {
       while (true)
       {
@@ -56,61 +56,39 @@ namespace HomeApp2
       }
     }
 
+    static void ExitIfFalse(bool condition)
+    {
+      if (!condition)
+      {
+        Console.WriteLine("You can't buy alcohol");
+        Console.ReadLine();
+        Environment.Exit(0);
+      }
+    }
+
     static void Main(string[] args)
     {
       bool antibiotics = ReadBoolValueFromConsole("Do you take antibiotics?");
-      bool buyAlcohol = !antibiotics;
-      switch (!antibiotics)
-      {
-       case true:        
-        break;            
-       case false:        
-        Console.WriteLine("You can't buy alcohol");           
-        return;        
-      }               
+      ExitIfFalse(!antibiotics);
 
       int age = ReadIntValueFromConsole("How old are you?");
       bool adulthood = age >= 21;
-      buyAlcohol = buyAlcohol && adulthood;
-      switch (adulthood)
-            {
-                case true:
-                    break;
-                case false:
-                    Console.WriteLine("You can't buy alcohol");
-                    return;
-            }
+      ExitIfFalse(adulthood);
 
       bool passport = ReadBoolValueFromConsole("Do you have passport?");
       bool driverLicense = false;
       if (!passport)
         driverLicense = ReadBoolValueFromConsole("Do you have Driver License?");
-      buyAlcohol = buyAlcohol && (passport || driverLicense);
-      switch (passport || driverLicense)
-            {
-                case true:
-                    break;
-                case false:
-                    Console.WriteLine("You can't buy alcohol");
-                    return;
-            }
+      ExitIfFalse(passport || driverLicense);
 
       decimal cash = ReadDecimalFromConsole("How much money you have ?");
       bool minCash100uah = cash >= 100;
       bool paymentCard = false;
       if (!minCash100uah)
         paymentCard = ReadBoolValueFromConsole("Do you have payment card?");
-      buyAlcohol = buyAlcohol && (minCash100uah || paymentCard);
-      switch (minCash100uah || paymentCard)
-            {
-                case true:
-                    break;
-                case false:
-                    Console.WriteLine("You can't buy alcohol");
-                    return;
-            }
+      ExitIfFalse(minCash100uah || paymentCard);
 
-            Console.WriteLine(buyAlcohol);
+      Console.WriteLine("Congratulations! You can buy alcohol!");
     }
   }
 }
