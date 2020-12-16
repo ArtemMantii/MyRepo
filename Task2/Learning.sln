@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeApp3", "HomeApp3\HomeAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeApp3.1", "HomeApp3.1\HomeApp3.1.csproj", "{3D29BD90-E93B-488C-B02B-767D47276C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmyProcessing", "ArmyProcessing\ArmyProcessing.csproj", "{54EBC222-1BDE-4B96-8BC1-8F9F01692B54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3D29BD90-E93B-488C-B02B-767D47276C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D29BD90-E93B-488C-B02B-767D47276C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D29BD90-E93B-488C-B02B-767D47276C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EBC222-1BDE-4B96-8BC1-8F9F01692B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EBC222-1BDE-4B96-8BC1-8F9F01692B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EBC222-1BDE-4B96-8BC1-8F9F01692B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EBC222-1BDE-4B96-8BC1-8F9F01692B54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
