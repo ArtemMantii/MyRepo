@@ -13,7 +13,7 @@ namespace ArmyProcessing
 
     static void Main(string[] args)
     {
-      SoldierType[] soldiersType = GetArmyType();
+      SoldierType[] soldiersType = GetArmyTypeFromConsole(); // сюда вписать новый метод
 
       int[] soldiersHealth;
       int[] soldiersAttack;
@@ -87,9 +87,20 @@ namespace ArmyProcessing
     }
     private static SoldierType[] GetArmyTypeFromConsole()
     {
-      // Get soldiers count (3-10)
-      // get soldier type (0,1,2) in loop
-      return new[] {SoldierType.Archer};
+      int elemNum = ReadIntValueFromConsole("Enter amount of the soldiers:", 3, 10);
+      SoldierType[] soldierArray = new SoldierType[elemNum];
+
+      for (int i = 0; i < soldierArray.Length; i++)
+      {
+        int soldierTypeValue = ReadIntValueFromConsole($"Enter the type of the soldier {i}:", 0, 2);
+        if (soldierTypeValue == 0)
+          soldierArray[i] = SoldierType.Trooper;
+        else if (soldierTypeValue == 1)
+          soldierArray[i] = SoldierType.Archer;
+        else
+          soldierArray[i] = SoldierType.Knight;
+      }
+      return soldierArray;
     }
 
 
@@ -127,5 +138,22 @@ namespace ArmyProcessing
       Console.WriteLine();
     }
 
+    static int ReadIntValueFromConsole(string message, int minValue, int maxValue)
+    {
+      while (true)
+      {
+        Console.WriteLine(message);
+        string inputValue = Console.ReadLine();
+
+        int intValue;
+        bool validValue = int.TryParse(inputValue, out intValue);
+        if (!validValue)
+          continue;
+
+        validValue = intValue >= minValue && intValue <= maxValue;
+        if (validValue)
+          return intValue;
+      }
+    }
   }
 }
